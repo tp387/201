@@ -1,0 +1,9 @@
+.mb-2{
+    width: 500px;
+}
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ,'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: rgba(100, 148, 237, 0.841) !important;
+}
